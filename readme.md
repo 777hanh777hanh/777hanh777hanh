@@ -6,7 +6,12 @@
 
 <!-- Badges -->
 <p>
-<h1 align="center"><img src="https://img.shields.io/github/followers/777hanh777hanh?style=social&label=follow"><img src="https://img.shields.io/github/stars/777hanh777hanh?style=social"></a></h1></br>
+<h1 align="center">
+<img src="https://img.shields.io/github/followers/777hanh777hanh?style=social&label=follow" alt="777hanh777hanh" style="margin-right: 16px;" >
+<img src="https://img.shields.io/github/stars/777hanh777hanh?style=social" alt="777hanh777hanh"></a>
+</h1>
+
+</br>
 
 <h5 align="center"><b>Connect With Me > </b></h5>
 
@@ -19,6 +24,14 @@
 </a>
 <a href="https://www.instagram.com/777hanh/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+</div>
+</br>
+
+<h5 align="center"><b>Other > </b></h5>
+<div align="center">
+<a href="https://github.com/777hanh" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 0px;" />
 </a>
 </div>
 
