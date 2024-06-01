@@ -8,7 +8,7 @@
 <p>
 <h1 align="center">
 <img src="https://img.shields.io/github/followers/777hanh777hanh?style=social&label=follow" alt="777hanh777hanh" style="margin-right: 16px;" >
-<img src="https://img.shields.io/github/stars/777hanh777hanh?style=social" alt="777hanh777hanh"></a>
+<img src="https://img.shields.io/github/stars/777hanh777hanh?style=social" alt="777hanh777hanh">
 </h1>
 
 </br>
