@@ -1,15 +1,20 @@
-<img width=100% title="777hanh" alt="777hanh" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=777hanh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<h1><img width=100% title="777hanh" alt="777hanh" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=777hanh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/></h1>
 
-<h1 align="center">
+<h2 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=36&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thien+Thanh!;" alt="777hanh" />
-</h1>
+</h2>
+
+<!-- Portfolio -->
+<h2 align='center'><a href="https://www.tranthienthanh.online/">My Portfolio</a></h2>
+
+<br />
 
 <!-- Badges -->
 <p>
-<h1 align="center">
+<h2 align="center">
 <img src="https://img.shields.io/github/followers/777hanh777hanh?style=social&label=follow" alt="777hanh777hanh" style="margin-right: 16px;" >
 <img src="https://img.shields.io/github/stars/777hanh777hanh?style=social" alt="777hanh777hanh">
-</h1>
+</h2>
 
 </br>
 
