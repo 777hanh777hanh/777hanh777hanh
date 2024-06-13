@@ -5,7 +5,7 @@
 </h2>
 
 <!-- Portfolio -->
-<h2 align='center'><a href="https://www.tranthienthanh.online/">My Portfolio</a></h2>
+<h2 align='center'><a href="https://www.thanhthientran1511.site/">My Portfolio</a></h2>
 
 <br />
 
@@ -15,6 +15,10 @@
 <img src="https://img.shields.io/github/followers/777hanh777hanh?style=social&label=follow" alt="777hanh777hanh" style="margin-right: 16px;" >
 <img src="https://img.shields.io/github/stars/777hanh777hanh?style=social" alt="777hanh777hanh">
 </h2>
+
+</br>
+
+<div align="center"><img src="https://komarev.com/ghpvc/?username=777hanh777hanh&color=yellow&style=plastic" alt="777hanh777hanh"/></div>
 
 </br>
 
